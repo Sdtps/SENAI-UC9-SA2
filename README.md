@@ -1,7 +1,7 @@
 # Turma AP 1 FS
 ## Atividades SA2
 
-### Atividade Oline 1 - Tela de Longin (Completa)
+* Atividade Oline 1 - Tela de Longin (Completa)
 * Atividade Oline 2 - Header e Banner (index)
 * Atividade Oline 3 - Conteudo e Footer (index)
 * Encontro Remoto 1 - CSS
